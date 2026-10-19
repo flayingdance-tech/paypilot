@@ -70,8 +70,8 @@ docs/
 - [x] Functional demo (runs locally or hosted)
 - [x] Demo video < 3 min on YouTube
 - [x] Meaningful PayPal Sandbox + AI integration
-- [ ] Registered on Devpost (user action)
-- [ ] Sandbox credentials wired in (user action)
+- [x] Registered on Devpost
+- [x] Sandbox credentials wired in (live test: order created, approved, captured $1.00 sandbox)
 
 ## License
 
