@@ -1,0 +1,17 @@
+# Credentials & secrets — never commit
+.credentials.json
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
